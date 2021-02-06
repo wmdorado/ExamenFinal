@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeroLiteralWM", "NumeroLiteralWM\NumeroLiteralWM.csproj", "{958D64D8-1B42-4065-8C77-5A9CB5B6C62A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestNumeroLiteral", "NUnitTestNumeroLiteral\NUnitTestNumeroLiteral.csproj", "{56CBA526-9D90-48F1-B70B-B5BDB7585F4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{958D64D8-1B42-4065-8C77-5A9CB5B6C62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{958D64D8-1B42-4065-8C77-5A9CB5B6C62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{958D64D8-1B42-4065-8C77-5A9CB5B6C62A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56CBA526-9D90-48F1-B70B-B5BDB7585F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CBA526-9D90-48F1-B70B-B5BDB7585F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CBA526-9D90-48F1-B70B-B5BDB7585F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CBA526-9D90-48F1-B70B-B5BDB7585F4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
